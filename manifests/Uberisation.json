@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Massine3.github.io/Uberisation/manifests/Uberisation.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[Datavisualisation]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
