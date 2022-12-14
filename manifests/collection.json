@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Massine3.github.io/Uberisation/manifests/Uberisation.json",
+    "label" : "Datavisualisation"
+  } ]
 }
