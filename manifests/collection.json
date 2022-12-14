@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Massine3.github.io/Uberisation/manifests/Uberisation.json",
     "label" : "Datavisualisation"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Massine3.github.io/Uberisation/manifests/Ubeerisation.json",
-    "label" : "[Click to edit label]"
   } ]
 }
