@@ -1,0 +1,66 @@
+{
+  "id" : "https://Massine3.github.io/Uberisation/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Massine3/Uberisation project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 6000,
+    "id" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg/canvas/",
+    "label" : {
+      "none" : [ "Uberisation.jpg" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 188,
+              "height" : 157
+            }, {
+              "width" : 375,
+              "height" : 313
+            }, {
+              "width" : 750,
+              "height" : 625
+            }, {
+              "width" : 1500,
+              "height" : 1250
+            }, {
+              "width" : 3000,
+              "height" : 2500
+            }, {
+              "width" : 6000,
+              "height" : 5000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6000,
+            "@id" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6000,
+          "id" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5000
+        },
+        "target" : "https://Massine3.github.io/Uberisation/images/Uberisation.jpg/canvas/"
+      } ]
+    } ],
+    "height" : 5000
+  } ]
+}
