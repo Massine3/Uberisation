@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Massine3.github.io/Uberisation/annotations/Uberisation.json" ],
+  "@id" : "https://Massine3.github.io/Uberisation/annotations/collection.json",
+  "label" : "All annotations loaded in Massine3/Uberisation project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
